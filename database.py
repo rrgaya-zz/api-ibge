@@ -16,4 +16,3 @@ while status:
         print("Erro ao tentar se conectar")
         logging.info("Erro ao tentar se conectar")
         status = False
-
