@@ -22,7 +22,7 @@ pylint-django==2.0.15
 pylint-flask==0.6
 pylint-plugin-utils==0.6
 pymongo==3.11.0
-PyYAML==5.3.1
+PyYAML==5.4
 requirements-detector==0.7
 rfc3986==1.4.0
 setoptconf==0.2.0
